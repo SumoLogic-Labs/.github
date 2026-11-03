@@ -16,7 +16,7 @@ This org hosts **community-supported, experimental open source projects** built 
 | Project | What it does |
 |---|---|
 | [sumocli][sumocli] | Manage your Sumo Logic org from the command line (Go) |
-| [sumobot][sumobot] | Slack bot for Sumo Logic |
+| [sumobot][sumobot] | Slack chat bot for Sumo Logic with a bunch of plugins for interacting with external tools like PagerDuty, AWS Support, etc. via Slack |
 | [sumologic-grafana-datasource][grafana] | Query Sumo Logic metrics from Grafana |
 | [sumologic-prometheus-scraper][prom] | Send Prometheus-format metrics to Sumo Logic |
 | [collector-management-client][cmc] | Manage installed Collectors in bulk (Python) |
